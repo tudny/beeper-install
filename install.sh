@@ -23,7 +23,7 @@ else
 fi
 
 # Check if icon is already downloaded
-if [ -f "$BEEPER_PATH"/Beeper.png ]; then
+if [ -f "$BEEPER_ICON" ]; then
     echo "Beeper icon is already downloaded."
 else
     echo "Beeper icon is not downloaded. Downloading..."
