@@ -2,6 +2,13 @@
 
 This script will install Beeper on your Linux machine.
 
+## What is Beeper?
+[Beeper](https://www.beeper.com/)
+
+This repository is not affiliated with Beeper in any way.
+This is just a simple script that will install Beeper on your Linux machine.
+Normally, Beeper for Linux is only available as AppImage file, but this script will download the AppImage, extract it and install it in your home directory.
+
 ## Requirements
 
 Make sure to have `wget` installed on your system.
